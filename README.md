@@ -17,7 +17,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3FaltXD&theme=radical)
-![nityadevsingh's STATS](https://github-readme-stats.vercel.app/api?username=nityadevsingh&show_icons=true&theme=radical)
+![Rishav12222216's STATS](https://github-readme-stats.vercel.app/api?username=Rishav12222216&show_icons=true&theme=radical)
 </div>
 <p><h1 align="left"> <strong>T O O L S</strong></h1>
 <div align='left'>
